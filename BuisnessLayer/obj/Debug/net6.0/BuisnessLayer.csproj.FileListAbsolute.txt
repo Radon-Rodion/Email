@@ -1,0 +1,12 @@
+P:\STLabs\EmailClient\BuisnessLayer\bin\Debug\net6.0\BuisnessLayer.deps.json
+P:\STLabs\EmailClient\BuisnessLayer\bin\Debug\net6.0\BuisnessLayer.dll
+P:\STLabs\EmailClient\BuisnessLayer\bin\Debug\net6.0\BuisnessLayer.pdb
+P:\STLabs\EmailClient\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.csproj.AssemblyReference.cache
+P:\STLabs\EmailClient\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+P:\STLabs\EmailClient\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.AssemblyInfoInputs.cache
+P:\STLabs\EmailClient\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.AssemblyInfo.cs
+P:\STLabs\EmailClient\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.csproj.CoreCompileInputs.cache
+P:\STLabs\EmailClient\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.dll
+P:\STLabs\EmailClient\BuisnessLayer\obj\Debug\net6.0\refint\BuisnessLayer.dll
+P:\STLabs\EmailClient\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.pdb
+P:\STLabs\EmailClient\BuisnessLayer\obj\Debug\net6.0\ref\BuisnessLayer.dll
