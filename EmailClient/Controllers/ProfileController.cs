@@ -2,13 +2,31 @@
 
 namespace EmailClient.Controllers
 {
+    [Route("/users")]
     public class ProfileController : Controller
     {
-        public IActionResult Index()
+        [HttpGet]
+        public async Task<object> GetUsersAsync()
         {
-            return View();
+            
         }
 
+        [HttpGet("/{id}")]
+        public async Task<object> GetUserInfoAsync(string id)
+        {
 
+        }
+
+        [HttpPut("/{id}")]
+        public async Task<object> PutUserInfoAsync(string id)
+        {
+
+        }
+
+        [HttpDelete("/{id}")]
+        public async Task<object> DeleteUserInfoAsync(string id)
+        {
+
+        }
     }
 }

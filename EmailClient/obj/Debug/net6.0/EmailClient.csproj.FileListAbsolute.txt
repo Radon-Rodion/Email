@@ -566,3 +566,13 @@ P:\STLabs\EmailClient\EmailClient\obj\Debug\net6.0\refint\EmailClient.dll
 P:\STLabs\EmailClient\EmailClient\obj\Debug\net6.0\EmailClient.pdb
 P:\STLabs\EmailClient\EmailClient\obj\Debug\net6.0\EmailClient.genruntimeconfig.cache
 P:\STLabs\EmailClient\EmailClient\obj\Debug\net6.0\ref\EmailClient.dll
+f:\Coding\C#\Email\Email\EmailClient\obj\Debug\net6.0\EmailClient.dll
+f:\Coding\C#\Email\Email\EmailClient\obj\Debug\net6.0\refint\EmailClient.dll
+f:\Coding\C#\Email\Email\EmailClient\obj\Debug\net6.0\EmailClient.pdb
+f:\Coding\C#\Email\Email\EmailClient\obj\Debug\net6.0\EmailClient.csproj.AssemblyReference.cache
+f:\Coding\C#\Email\Email\EmailClient\obj\Debug\net6.0\EmailClient.GeneratedMSBuildEditorConfig.editorconfig
+f:\Coding\C#\Email\Email\EmailClient\obj\Debug\net6.0\EmailClient.AssemblyInfoInputs.cache
+f:\Coding\C#\Email\Email\EmailClient\obj\Debug\net6.0\EmailClient.AssemblyInfo.cs
+f:\Coding\C#\Email\Email\EmailClient\obj\Debug\net6.0\EmailClient.csproj.CoreCompileInputs.cache
+f:\Coding\C#\Email\Email\EmailClient\obj\Debug\net6.0\EmailClient.MvcApplicationPartsAssemblyInfo.cs
+f:\Coding\C#\Email\Email\EmailClient\obj\Debug\net6.0\EmailClient.MvcApplicationPartsAssemblyInfo.cache

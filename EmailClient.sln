@@ -5,9 +5,12 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailClient", "EmailClient\EmailClient.csproj", "{1014B50C-EE64-4F3D-AC03-A22A51281ED3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuisnessLayer", "BuisnessLayer\BuisnessLayer.csproj", "{88E1673C-0DBA-4998-94E3-CD27EA828113}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuisnessLayer", "BuisnessLayer\BuisnessLayer.csproj", "{88E1673C-0DBA-4998-94E3-CD27EA828113}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3B8AC5EF-0331-4736-BDED-240C81B6AA5A} = {3B8AC5EF-0331-4736-BDED-240C81B6AA5A}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcessLayer", "DataAcessLayer\DataAcessLayer.csproj", "{3B8AC5EF-0331-4736-BDED-240C81B6AA5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAcessLayer", "DataAcessLayer\DataAcessLayer.csproj", "{3B8AC5EF-0331-4736-BDED-240C81B6AA5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

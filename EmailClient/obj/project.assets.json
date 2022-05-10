@@ -3484,6 +3484,7 @@
         "dependencies": {
           "AutoMapper": "11.0.1",
           "CloudinaryDotNet": "1.17.0",
+          "DataAcessLayer": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.4",
           "Serilog": "2.11.0"
         },
@@ -10633,19 +10634,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP Pavilion\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\STLabs\\EmailClient\\EmailClient\\EmailClient.csproj",
+      "projectUniqueName": "f:\\Coding\\C#\\Email\\Email\\EmailClient\\EmailClient.csproj",
       "projectName": "EmailClient",
-      "projectPath": "P:\\STLabs\\EmailClient\\EmailClient\\EmailClient.csproj",
-      "packagesPath": "C:\\Users\\HP Pavilion\\.nuget\\packages\\",
-      "outputPath": "P:\\STLabs\\EmailClient\\EmailClient\\obj\\",
+      "projectPath": "f:\\Coding\\C#\\Email\\Email\\EmailClient\\EmailClient.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "f:\\Coding\\C#\\Email\\Email\\EmailClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP Pavilion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10659,11 +10660,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "P:\\STLabs\\EmailClient\\BuisnessLayer\\BuisnessLayer.csproj": {
-              "projectPath": "P:\\STLabs\\EmailClient\\BuisnessLayer\\BuisnessLayer.csproj"
+            "f:\\Coding\\C#\\Email\\Email\\BuisnessLayer\\BuisnessLayer.csproj": {
+              "projectPath": "f:\\Coding\\C#\\Email\\Email\\BuisnessLayer\\BuisnessLayer.csproj"
             },
-            "P:\\STLabs\\EmailClient\\DataAcessLayer\\DataAcessLayer.csproj": {
-              "projectPath": "P:\\STLabs\\EmailClient\\DataAcessLayer\\DataAcessLayer.csproj"
+            "f:\\Coding\\C#\\Email\\Email\\DataAcessLayer\\DataAcessLayer.csproj": {
+              "projectPath": "f:\\Coding\\C#\\Email\\Email\\DataAcessLayer\\DataAcessLayer.csproj"
             }
           }
         }
@@ -10763,7 +10764,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   },

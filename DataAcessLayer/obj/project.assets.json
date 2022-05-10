@@ -6219,19 +6219,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP Pavilion\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\STLabs\\EmailClient\\DataAcessLayer\\DataAcessLayer.csproj",
+      "projectUniqueName": "f:\\Coding\\C#\\Email\\Email\\DataAcessLayer\\DataAcessLayer.csproj",
       "projectName": "DataAcessLayer",
-      "projectPath": "P:\\STLabs\\EmailClient\\DataAcessLayer\\DataAcessLayer.csproj",
-      "packagesPath": "C:\\Users\\HP Pavilion\\.nuget\\packages\\",
-      "outputPath": "P:\\STLabs\\EmailClient\\DataAcessLayer\\obj\\",
+      "projectPath": "f:\\Coding\\C#\\Email\\Email\\DataAcessLayer\\DataAcessLayer.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "f:\\Coding\\C#\\Email\\Email\\DataAcessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP Pavilion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6307,7 +6307,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
